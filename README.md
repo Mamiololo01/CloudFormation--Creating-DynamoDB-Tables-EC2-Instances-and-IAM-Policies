@@ -101,5 +101,9 @@ Since my CLI was already configured with an AWS account with admin access permis
 
 This code is attempting to write to our DynamoDB Table. If our IAM policy was written as intended, we should receive a “permission denied” error message returned to our CLI:
 
+<img width="710" alt="Screenshot 2023-04-17 at 09 36 12" src="https://user-images.githubusercontent.com/67044030/232435568-e2a2f874-4557-465d-9699-57f6e92f710d.png">
+
 
 Presto! Our CloudFormation template was designed and implemented correctly.
+
+Please destroy the template and confirm ec2 instance is deleted
