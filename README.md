@@ -84,6 +84,8 @@ Our CloudFormation has provisioned our stack successfully.
 
 Once our stack is completed, we can verify our results in the AWS Console.
 
+<img width="1020" alt="Screenshot 2023-04-17 at 09 25 08" src="https://user-images.githubusercontent.com/67044030/232433641-e6e65816-a466-4486-939d-5912aeba2b27.png">
+
 Step 3: Test our IAM Policy using EC2 Connect into our EC2 Instance
 After our Stack completes, we can move over to our EC2 Dashboard to confirm that our instance is running and that our IAM Policy was attached to our instance
 
