@@ -107,3 +107,5 @@ This code is attempting to write to our DynamoDB Table. If our IAM policy was wr
 Presto! Our CloudFormation template was designed and implemented correctly.
 
 Please destroy the template and confirm ec2 instance is deleted
+
+<img width="1177" alt="Screenshot 2023-04-17 at 09 37 09" src="https://user-images.githubusercontent.com/67044030/232435970-0ac9c1a5-b207-4913-b569-3eff6c1ed8a2.png">
