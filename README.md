@@ -78,6 +78,8 @@ It took my stack about 7 minutes to complete.
 What a CloudFormation Stack looks like while in process via the stacks dashboard
 Our CloudFormation has provisioned our stack successfully.
 
+<img width="1248" alt="Screenshot 2023-04-17 at 09 23 34" src="https://user-images.githubusercontent.com/67044030/232433042-8c44534e-19d4-49a9-b54f-3426aff454c1.png">
+
 
 Once our stack is completed, we can verify our results in the AWS Console.
 
