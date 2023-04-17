@@ -57,6 +57,8 @@ On Step 1 of the CloudFormation create stack, I am going to upload our .yaml fil
 
 On Step 2, I give our stack a name then click the orange “Next” button.
 
+<img width="1239" alt="Screenshot 2023-04-17 at 08 42 56" src="https://user-images.githubusercontent.com/67044030/232432032-260c66a8-fd2c-4dbe-a645-32e2d77cdfea.png">
+
 
 On Step 3, I am going to ensure that CloudFormation ‘rolls back’ any resources created if our template encounters an error. I click the orange “Next” button.
 
