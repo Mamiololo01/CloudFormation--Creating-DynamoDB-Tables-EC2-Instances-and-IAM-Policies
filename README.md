@@ -62,6 +62,8 @@ On Step 2, I give our stack a name then click the orange “Next” button.
 
 On Step 3, I am going to ensure that CloudFormation ‘rolls back’ any resources created if our template encounters an error. I click the orange “Next” button.
 
+<img width="1280" alt="Screenshot 2023-04-17 at 08 43 05" src="https://user-images.githubusercontent.com/67044030/232432221-6e3df47a-0ac2-4563-9063-e909622d6431.png">
+
 
 Finally, since I am creating an IAM policy, I need to acknowledge this CloudFormation disclaimer. I check the box and click the orange “Submit” to run my CloudFormation template.
 
