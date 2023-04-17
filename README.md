@@ -111,3 +111,5 @@ Please destroy the template and confirm ec2 instance is deleted
 <img width="1177" alt="Screenshot 2023-04-17 at 09 37 09" src="https://user-images.githubusercontent.com/67044030/232435970-0ac9c1a5-b207-4913-b569-3eff6c1ed8a2.png">
 
 <img width="1258" alt="Screenshot 2023-04-17 at 09 36 56" src="https://user-images.githubusercontent.com/67044030/232436237-cf01ffc6-a616-4ffe-800f-fad721ac298d.png">
+
+<img width="1026" alt="Screenshot 2023-04-17 at 09 36 46" src="https://user-images.githubusercontent.com/67044030/232436501-9d03335b-e43e-4afe-9b00-b29e6f005379.png">
