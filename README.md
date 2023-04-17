@@ -67,6 +67,8 @@ On Step 3, I am going to ensure that CloudFormation ‘rolls back’ any resourc
 
 Finally, since I am creating an IAM policy, I need to acknowledge this CloudFormation disclaimer. I check the box and click the orange “Submit” to run my CloudFormation template.
 
+<img width="1372" alt="Screenshot 2023-04-17 at 08 43 22" src="https://user-images.githubusercontent.com/67044030/232432424-12e5bc59-adee-4a5c-ad34-8e1ad60e941e.png">
+
 
 CloudFormation stacks can take several minutes to provision all the resources depending on the size of your stack.
 
