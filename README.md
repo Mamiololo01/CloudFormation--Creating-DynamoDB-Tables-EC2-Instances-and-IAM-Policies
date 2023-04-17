@@ -84,15 +84,18 @@ Our CloudFormation has provisioned our stack successfully.
 
 Once our stack is completed, we can verify our results in the AWS Console.
 
-<img width="1020" alt="Screenshot 2023-04-17 at 09 25 08" src="https://user-images.githubusercontent.com/67044030/232433641-e6e65816-a466-4486-939d-5912aeba2b27.png">
 
-<img width="964" alt="Screenshot 2023-04-17 at 09 25 40" src="https://user-images.githubusercontent.com/67044030/232434556-0d0b7cd5-5ed7-4037-9d5f-9f143f8b3101.png">
 
 Step 3: Test our IAM Policy using EC2 Connect into our EC2 Instance
 After our Stack completes, we can move over to our EC2 Dashboard to confirm that our instance is running and that our IAM Policy was attached to our instance
 
+<img width="1020" alt="Screenshot 2023-04-17 at 09 25 08" src="https://user-images.githubusercontent.com/67044030/232433641-e6e65816-a466-4486-939d-5912aeba2b27.png">
+
+<img width="964" alt="Screenshot 2023-04-17 at 09 25 40" src="https://user-images.githubusercontent.com/67044030/232434556-0d0b7cd5-5ed7-4037-9d5f-9f143f8b3101.png">
 
 Let’s SSH into our EC2 Instance to verify our IAMPolicy is working as designed
+
+<img width="687" alt="Screenshot 2023-04-17 at 09 28 02" src="https://user-images.githubusercontent.com/67044030/232434980-c393bbc9-850e-494c-8ace-20a132d82dac.png">
 
 Since my CLI was already configured with an AWS account with admin access permissions. For our testing, I chose to use the EC2 Instance Connect to ensure that my aws configure access via my CLI wasn’t circumventing the IAM policy for our EC2 instance.
 
