@@ -80,6 +80,7 @@ Our CloudFormation has provisioned our stack successfully.
 
 <img width="1248" alt="Screenshot 2023-04-17 at 09 23 34" src="https://user-images.githubusercontent.com/67044030/232433042-8c44534e-19d4-49a9-b54f-3426aff454c1.png">
 
+<img width="1198" alt="Screenshot 2023-04-17 at 09 23 47" src="https://user-images.githubusercontent.com/67044030/232433358-67aa7ebf-29f3-4be6-b03f-ec2ab6aeeb4b.png">
 
 Once our stack is completed, we can verify our results in the AWS Console.
 
