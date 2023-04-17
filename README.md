@@ -52,8 +52,7 @@ Step 2: Launching our Template in CloudFormation
 From the AWS Console, we navigate to the CloudFormation dashboard, upload our .YAML CloudFormation template and launch our new stack.
 
 On Step 1 of the CloudFormation create stack, I am going to upload our .yaml file and click the orange “Next” button.
-
-<img width="694" alt="Screenshot 2023-04-17 at 07 32 39" src="https://user-images.githubusercontent.com/67044030/232431473-db81f6ee-a502-4857-a284-1f2d261ce64e.png">
+<img width="1260" alt="Screenshot 2023-04-17 at 08 37 30" src="https://user-images.githubusercontent.com/67044030/232431797-a597e890-5d27-4f23-a85f-d755fabb05b3.png">
 
 
 On Step 2, I give our stack a name then click the orange “Next” button.
