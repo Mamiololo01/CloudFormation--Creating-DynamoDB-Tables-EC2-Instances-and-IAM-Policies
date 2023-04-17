@@ -53,6 +53,8 @@ From the AWS Console, we navigate to the CloudFormation dashboard, upload our .Y
 
 On Step 1 of the CloudFormation create stack, I am going to upload our .yaml file and click the orange “Next” button.
 
+<img width="694" alt="Screenshot 2023-04-17 at 07 32 39" src="https://user-images.githubusercontent.com/67044030/232431473-db81f6ee-a502-4857-a284-1f2d261ce64e.png">
+
 
 On Step 2, I give our stack a name then click the orange “Next” button.
 
